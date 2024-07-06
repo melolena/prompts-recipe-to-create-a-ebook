@@ -39,8 +39,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema html, o ebook é do nicho de programação e subnicho html. O título deve ser épico e curto e tenha uma temática mais nerd, voltada para friends, me liste 5 variações de títulos                                                     |
-| conteúdo |Faça um texto para ebook com foco em HTML, listando os principais seletores HTML com exemplo de código 
-|
+| conteúdo |Faça um texto para ebook com foco em HTML, listando os principais seletores HTML com exemplo de código |
 
 
 Dall-E：
