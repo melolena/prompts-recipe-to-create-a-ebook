@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/melolena/prompts-recipe-to-create-a-ebook/blob/main/assets/html.png"
     width="400"  
 />
 </p>
